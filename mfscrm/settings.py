@@ -25,7 +25,7 @@ SECRET_KEY = 'r1ftdlojrhfx+t5#3@0ff7f&qbz1k3)kt%fb88p4zoce5@___k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'arohde2.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'arohde.pythonanywhere.com']
 
 
 # Application definition
